@@ -20,5 +20,5 @@
 * Added Fov Changer
 * Added Perfomance Mode
 
-  ##V1.30
+  ## V1.30
   *???
